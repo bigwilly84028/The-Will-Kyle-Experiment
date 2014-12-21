@@ -1,0 +1,11 @@
+c:\users\will\documents\visual studio 2013\Projects\XTune\XTune\bin\Debug\XTune.exe
+c:\users\will\documents\visual studio 2013\Projects\XTune\XTune\bin\Debug\FTD2XX_NET.dll
+c:\users\will\documents\visual studio 2013\Projects\XTune\XTune\bin\Debug\XTune.exe.config
+c:\users\will\documents\visual studio 2013\Projects\XTune\XTune\bin\Debug\XTune.pdb
+c:\users\will\documents\visual studio 2013\Projects\XTune\XTune\bin\Debug\FTD2XX_NET.xml
+c:\users\will\documents\visual studio 2013\Projects\XTune\XTune\obj\Debug\XTune.Properties.Resources.resources
+c:\users\will\documents\visual studio 2013\Projects\XTune\XTune\obj\Debug\XTune.csproj.GenerateResource.Cache
+c:\users\will\documents\visual studio 2013\Projects\XTune\XTune\obj\Debug\XTune.exe
+c:\users\will\documents\visual studio 2013\Projects\XTune\XTune\obj\Debug\XTune.pdb
+c:\users\will\documents\visual studio 2013\Projects\XTune\XTune\obj\Debug\XTune.csprojResolveAssemblyReference.cache
+c:\users\will\documents\visual studio 2013\Projects\XTune\XTune\obj\Debug\XTune.mainForm.resources
